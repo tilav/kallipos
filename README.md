@@ -17,7 +17,7 @@ There is a bash script `make_latex.sh` which can be modified
 in order to prepare the desired output format.
 
 The bash file has been prepared for MacOS X cli.
-It has also been tested succesfully in Arch Linux by removing the `sed` command
+It has also been tested succesfully in Arch Linux by editing the syntax (or simply removing) the `sed` command
 
 In order to prepare a PDF with the LaTeX toolchain,
 just add a `latex` folder with a template and master file.
